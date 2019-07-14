@@ -18,4 +18,4 @@ print(r.status_code)
 
 name = input("your name?")
 print("hello,", name)
-print(r.ok)
+print("go good job")
